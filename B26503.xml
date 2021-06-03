@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mask'd devil, or Quaker, neither fearing God nor reverencing man in an excellent and true description of these monsters (not men), made up of meer incongruities, as plainly appears by the late perfidious practice (of the seven Quakers which were lately convicted and to be transported) impartially represented in this ensuing narrative.</title>
+            <author>Manning, Edward.</author>
+         </titleStmt>
+         <extent>Approx. 31KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26503</idno><idno type="EEBO-CITATION">31355443</idno>
+  <idno type="VID">205930</idno>
+  <idno type="EEBO-PROQUEST">2240903161</idno>
+  
+            <idno type="STC">Wing M484</idno>
+            <idno type="OCLC">31355443</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26503)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205930)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1746:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mask'd devil, or Quaker, neither fearing God nor reverencing man in an excellent and true description of these monsters (not men), made up of meer incongruities, as plainly appears by the late perfidious practice (of the seven Quakers which were lately convicted and to be transported) impartially represented in this ensuing narrative.</title>
+                  <author>Manning, Edward.</author>
+               </titleStmt>
+               <extent>24 p.c   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed Anno Dom. 1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 24: Edward Manning.</note>
+                  <note>Imperfect: stained, and with print show-through.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Zev Berger </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Zev Berger</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205930:1"/>
+            <pb facs="tcp:205930:1"/>
+            <p>THE Mask'd Devil, 'OR QUAKER, Neither Fearing GOD, nor Reverencing MAN. In an excellent and true Description of these Monsters, (not Men) made up of meer incongruities; as plain<g ref="char:EOLhyphen"/>ly appears by the late perfidious Practice, (of the Seven Quakers, which were lately Convicted and to be Transported) impartially re<g ref="char:EOLhyphen"/>presented in this ensuing Narrative.</p>
+            <q>
+               <bibl>
+                  <hi>Psal. 56.7.</hi>
+               </bibl> Shall they escape by iniquity?</q>
+            <p>
+               <hi>LONDON,</hi> Printed Anno Dom. 1664</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:205930:2"/>
+            <pb n="3" facs="tcp:205930:2"/>
+            <opener>
+               <salute>Gentlemen, and Countrimen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am here engaged in a Re<g ref="char:EOLhyphen"/>lation of some Consequence, and to represent a Deceit in the holy men (so called) of this our Nation. I think I have not swerv'd from truth, since it concernes me to speak no more then I can make good: If I have, Let my Allegiance, whole Estate, and Fortune, lye at Stake for my Justificati<g ref="char:EOLhyphen"/>on. It is requisite I should first give you some satisfaction as to their persons, next <gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to their Actions.</p>
+            <p>They are a sort of people whose pre<g ref="char:EOLhyphen"/>tended singularity of gifts, and graces, do particularize, and sever from the Con<g ref="char:EOLhyphen"/>versation of the Honest: And like the Pha<g ref="char:EOLhyphen"/>risees, will, <hi>sapere supra Scriptum, supra E<g ref="char:EOLhyphen"/>vangelium, &amp; Patres;</hi> from whence I
+<pb n="4" facs="tcp:205930:3"/> suppose they deduce the Etymology of their name, or word of Distinction, <hi>viz. Separation,</hi> otherwise <hi>Quaker.</hi>
+            </p>
+            <p>Their Tenen<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s are Liberty of Conscience, in what Capacity soever, either with, or without the respect of <hi>Men<gap reason="illegible" resp="#uom" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, &amp; Tuum;</hi> and <hi>Lex Talionis,</hi> so far as concerns themselves. But yet a People, if all they say of them<g ref="char:EOLhyphen"/>selves be true, very devout, and zealous, to<g ref="char:EOLhyphen"/>wards God and their Country; which, in the fear of the Lord, I should be very free to believe were not their <hi>Simulata Sanctitas, Duplex Iniquitas.</hi>
+            </p>
+            <p>Now least I might give Offence to the rest of the Society, and that they may not ask me how I should know this, I am free to say, I know it either <hi>Ex Capite, or Ex Pede,</hi> from their cunning, and insinuating, Pates, or by their light Heels, in running away from that Tribulation they do so much magnifie. The Particulars whereof I shall treat from the beginning, together with the several transactions, as followeth, <hi>viz.</hi>
+            </p>
+            <p>The last Goale-delivery at <hi>Hartford</hi> (ex<g ref="char:EOLhyphen"/>cept one) gave these Humourists the honor of being known to their King and Country, where the Honorable Bench (according to the Old Position, <hi>Ubi desinit Philosophus in<g ref="char:EOLhyphen"/>cipit Medicus</hi>) turned Physitians, and though
+<pb n="5" facs="tcp:205930:3"/> that change of Aire might do them good, and help their Chilification better then this, which made them disgorge Crudities. In order whereunto one Mr. <hi>Edmonds,</hi> Goal-Keeper of <hi>Hertford,</hi> had power to treat for their Transportation: which he did with one Mr. <hi>Thomas May,</hi> who then had a con<g ref="char:EOLhyphen"/>cern in the Ship, called the <hi>Anne</hi> of <hi>London,</hi> now bound for the <hi>Barbadoes</hi> and <hi>Jamaica.</hi>
+            </p>
+            <p>Mr. <hi>May</hi> having not seen the Creatures, soon agreed for their Transportation, and accordingly they were brought up to <hi>London,</hi> viz. <hi>Nicholas Lucas, Henry Feast, Henry Mar<g ref="char:EOLhyphen"/>shall, Francis Pryor, John Bindet, Jeremiah Hearne,</hi> and <hi>Samuel Treherne.</hi>
+            </p>
+            <p>Mr. <hi>May</hi> as a thing usual in such Cases a<g ref="char:EOLhyphen"/>mongst Seafaring men, askt them if they were willing to go with him, not knowing (as he pretended) till afterwards that they were convicted persons. And finding an hae<g ref="char:EOLhyphen"/>sitation, after their usual dumb way of Ora<g ref="char:EOLhyphen"/>tory, he refused to carry them.</p>
+            <p>Complaint hereupon was made unto his Majesties Secretary Sir <hi>William Morris,</hi> and by a Messenger Mr. <hi>May</hi> was sent for, and examined for his Contempt; and being obstinate in his Refusal, he was sent to the Gate-house Prison, where he continued some time.</p>
+            <pb n="6" facs="tcp:205930:4"/>
+            <p>Mr. <hi>May</hi> knowing me to be a person very much concerned in the Affairs of the Ship, and knowing that it was my friends, and in<g ref="char:EOLhyphen"/>terest, that put him into that Charge; desired, that <hi>I</hi> would endeavor to procure his Liber<g ref="char:EOLhyphen"/>ty, which upon Petition to the Secretary <hi>I</hi> effected; And entred into Bond unto his Majesty of Seven hundred pounds for their Transportation, and delivery at the places assigned, <hi>viz. Barbadoes,</hi> and <hi>Jamaica,</hi> which <hi>I</hi> would have performed, had not their treachery, Mr. <hi>May</hi>'s folly, and the Officers of <hi>Deale</hi> denying me their assistance, preven<g ref="char:EOLhyphen"/>ted me.</p>
+            <p>The Ship staying for some time in the River <hi>Thames,</hi> the aforenamed Quakers were secured in Houses on <hi>Tower-hill,</hi> to be forth coming when the Ship should be ready, or when they should be commanded aboard; in the mean time <hi>Treherne</hi> slips down to <hi>Hertford,</hi> and in opposition to the Magistrates and Officers of the Town; he rides about like anothet <hi>Naylor</hi> at <hi>Bristow,</hi> giving God thanks that he was delivered from their hands, and that now they had done their worst.</p>
+            <p>Sir <hi>Francis Butler</hi> (as he hath prov'd him<g ref="char:EOLhyphen"/>self a Loyal Person to his King and Coun<g ref="char:EOLhyphen"/>try) thought himself concerned in this Dis<g ref="char:EOLhyphen"/>course, and thereupon sends for <hi>Treherne</hi> by his man, desiring him to come to him, who replyed, That if <hi>Francis Butler</hi> had any
+<pb n="7" facs="tcp:205930:4"/> thing to say to him, he should come him<g ref="char:EOLhyphen"/>self.</p>
+            <p>Is this their Loyalty and obedience to the King and Government? Sir <hi>Francis Butler,</hi> as a Justice of peace, grants out a Warrant to apprehend him, and by a Con<g ref="char:EOLhyphen"/>stable sizies on him, and sends him to Prison, his old house, where he shewed that face, that would have hanged him, had not my charity drawn me to an act of pity not not since merited.</p>
+            <p>
+               <hi>Secretary Morrice</hi> hath notice hereof, and by a Messenger sends for me, where <hi>I</hi> re<g ref="char:EOLhyphen"/>ceived a severe chek, and afterwards rode down to <hi>Hertford</hi> and their petitioned the Bench for his inlargement, which with much adoe <hi>I</hi> obtained, bearing my own charges down, and there for his fees, and brought him up to <hi>London</hi> with me; For which kindness there was a great seeming resent<g ref="char:EOLhyphen"/>ment yet since have their Actions manifest<g ref="char:EOLhyphen"/>ed them savage beasts bred up to hand, who being received into a mans bosome have the more opportunity to do him harme.</p>
+            <p>The Ship afterwards fell down to <hi>Gravesend,</hi> where I found nothing but their cunning flat<g ref="char:EOLhyphen"/>tery and treacherous insinations. From thence we went to <hi>Deale</hi> where they compleated their stratagem and shewed what themselves and the rest of their Opinion are. For <hi>noscitur ex socio qui non dignoscitur ex se.</hi> Here was
+<pb n="8" facs="tcp:205930:5"/> their Principles and Integrity first mani<g ref="char:EOLhyphen"/>fested. Here was their willingness to suffer for their Conscience first shown? What do they distrust God, did they think the God of Land and Sea was not the same? They are not like <hi>Paul,</hi> who notwithstanding he knew he should be imprisoned at <hi>Ierusa<g ref="char:EOLhyphen"/>lem,</hi> yet would he not refuse, or alter his his journey thither; see in the <hi>Acts</hi> 21. chap. But I do find their devotion is onely in words and are such persons the Apostle speaks of in the, 2 <hi>Tim.</hi> 2. and 3. ver. <hi>Who have a form of godliness but deny the power.</hi> Saints to appearance, yet keep they a Reservation <hi>perfas aut nefas</hi> to accomplish their ends: But I shall speak hereafter more of that after I have given you an Account of their Actions.</p>
+            <p>The Ship remained about a Moneth in the Downs, being all fitted and expecting nothing but a fair wind to carry her forth; and so least provision should fall short by the way, the Quakers and rest of the pas<g ref="char:EOLhyphen"/>sengers had liberty to go a shore, but with a <hi>proviso</hi> to be in a readiness upon command to go aboard, as soon as the wind should serve, which was consented unto; And on the 27. day of <hi>November</hi> we had a fair wind, and I accordingly went to com<g ref="char:EOLhyphen"/>mand them aboard, where I found but
+<pb n="9" facs="tcp:205930:5"/> four of the seven, the rest were fled upon a design as you shall know hereafter; these other four with all the faire words and kindness I could, I desired and com<g ref="char:EOLunhyphen"/>manded aboard, but found them Refracto<g ref="char:EOLhyphen"/>ry to my requests, refusing to go with me without a Note from Mr. <hi>May,</hi> who as then had nothing to do with them, nor the Ship, but only subservient to me: But to remove that <hi>Remora,</hi> I sent for <hi>May's</hi> note to Commade them aboard which accord<g ref="char:EOLhyphen"/>ingly I had, yet would not this serve then, unless he came himself, they then promising that they would go with him, without in the least manner mentioning any of their exceptions, or his giving of any such note as they pretend.</p>
+            <p>After sometime Mr. <hi>May</hi> came and both desired, and commanded them aboard, the Deputy of <hi>Deale</hi> being then present, but they then Replyed they would not; and that they had a discharge under his hand, and that he had no more to do with them, and that they had now waited upon me from <hi>London</hi> to <hi>Deale,</hi> and would now wait upon no longer, giving me very unseem<g ref="char:EOLhyphen"/>ly and reproachful language; But this would not serve their turns: I told them, that they had promised all to go with me, and they should. As for <hi>Mayes</hi> Not I valu<g ref="char:EOLhyphen"/>ed it not, knowing that none could give
+<pb n="10" facs="tcp:205930:6"/> them a discharge but the King, and if they would not goe by fair means, they should go by compulsion; the which to the utmost of my power I used. But not being able my self, with two of my Seamen, In his Majesties Name <hi>I</hi> commanded the Deputy, and such other Officers, as I could finde out in the Town, to aid and assist me; but they wilfully refused it, and were palpably in<g ref="char:EOLhyphen"/>strumental in their escape. All which I will by sufficient testimonies make appear, when ever required: as also that by reason of their not going, I have lost my Con<g ref="char:EOLhyphen"/>cerns in the Ship to my utter ruine. And the world might know upon what account <hi>I</hi> stayed, tis this; first to manifest the treache<g ref="char:EOLhyphen"/>ry of these, as they term themselvs, innocent persons; and in the next, that in my absence, <hi>I</hi> would not have that blot laid upon me, which <hi>I</hi> do not deserve.</p>
+            <p>Now a word to you, the holy Brethren of the Nation (called Quakers) what is it we clog to your Consciences to break promise; Do you not know that every sin in you is a Complication of many, the whole body of you being concerned therein, who like <hi>Sydra's</hi> heads, admit of no seperation. Why did you attend the Ship and me to <hi>Gravesend,</hi> and from thence to the Downes? why did you give me thanks for my kindness to you all, and especially for my kindness to you
+<pb n="11" facs="tcp:205930:6"/> at <hi>Hertsor d</hi> why did you promise to attend me, to be my true and faithful Prisoners, and to go on bo<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd with me whensoever I should require you? why would you lye in the Spirit, and not performe these things? The Apostles never did so: Let God and the world judge of my actions, could I have done more for men then I have done for you. What did you want in the Ship which you had not? had you not the best Cabin, did you not lye upon new Beds, which I bought for my own Advantage and Traffick and not for you, whilst I my self lay upon the Boards? Did not I ride to <hi>Hertford</hi> to serve you? Did not I make it my businesse and expence to oblige you? Did <hi>I</hi> deny you any Liberty, or Freedom, but when you re<g ref="char:EOLhyphen"/>fused to obey the Kings Commands? I'le take God and your own Consciences to wit<g ref="char:EOLhyphen"/>nesse, I did not.</p>
+            <p>Were you but too civilly used, when you had your Liberty to go ashore at <hi>Deale,</hi> due ring our abode there? Or did your Religion allow of a Fraud in that Case? did my kind<g ref="char:EOLhyphen"/>nesses, whereof heretofore you have made large Acknowledgments, deserve to be re<g ref="char:EOLhyphen"/>quited thus. Is this your integrity? are these your upright de<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lings? Or is it only a fit of the Old man; to shew that the Devil hath not lost all his power of you?</p>
+            <p>What will the World think of your
+<pb n="12" facs="tcp:205930:7"/> Treachery, what will they say when they see Mr. <hi>May</hi>'s, or rather your own Discharge? what can they say, but that he was Drunk, or not himself, and so you got his hand to what you pleased? The which <hi>I</hi> will make ap<g ref="char:EOLhyphen"/>pear by the Testimonies of above a Dozen persons. As also the grand Impertinencies, and fabulous Narrations therein contained, not one material word thereof being true. Which Discharge, for the satisfaction of the World, I have here incerted <hi>verbatim;</hi> and will with Gods leave demonstrate the absur<g ref="char:EOLhyphen"/>dities and incongruities therein conteined. It followes in these words, <hi>(viz.)</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>Whereas there was seven men called Quakers, brought aboard my Ship called the <hi>Anne</hi> of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> by <hi>William Edmonds</hi> Goaler of <hi>Hertford,</hi> to say, <hi>Nicholas Lucas, Henry Feart, Henry Marshal, Francis Pryor, John Bindet, Jere<g ref="char:EOLhyphen"/>miah Hearne,</hi> and <hi>Samuel Treherne,</hi> all which have continued waiting upon my Ship f om <hi>Lon<g ref="char:EOLhyphen"/>don</hi> to <hi>Deale,</hi> from the fourth day of <hi>Septemb.</hi> last, till this day. And I seeing providence hath much crost me hitherto, whereby I perceive that the hand of the Lord is against me, that I dare not proceed on my Voyage to carry them, they be<g ref="char:EOLhyphen"/>ing Innocent Persons, and no Crime signified a<g ref="char:EOLhyphen"/>gainst them worthy of banishment; And that there is a Law in force, that no English man shall be banished out of his Nation contrary, against his
+<pb n="13" facs="tcp:205930:7"/> will. And also my men refuse to go the Voyage, if I carry them, which will be much to my hin<g ref="char:EOLhyphen"/>derance, men being very scarce by reason of the long continued Presse. For these Reasons there<g ref="char:EOLhyphen"/>fore, and many more, I will not carry them. These are therefore to Certifie any person or per<g ref="char:EOLhyphen"/>sons that shall Question them, or any of them, that they did not make an Escape, but I put them on shore again to go whither they please. All this is Certified under my own hand the <hi>10.</hi> day of <hi>November, 1664.</hi>
+                  </p>
+                  <closer>
+                     <signed>Thomas May.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>What, have you now fool'd your selves to the <hi>Barbadoes,</hi> and now think this Evasion would serve your turnes? and that yours which is the meer Fantasie, or Shadow of a Religion, would hold good with those that understand the difference betwixt somthing, and nothing. And so you would passe a<g ref="char:EOLhyphen"/>mongst those that suffer for the Truth. You erre in the manner of your Worship, and if God should ask, who required this at your hands, you would answer with a <hi>Non pu<g ref="char:EOLhyphen"/>taram.</hi>
+            </p>
+            <p>Why do you strive to varnish your Inno<g ref="char:EOLhyphen"/>cence, by Justification, if you are not guilty you need begg no excuse, neither need you seek the popular applause, if you can make it out with God.</p>
+            <p>You cry out the Judgment of God was a<g ref="char:EOLhyphen"/>gainst
+<pb n="14" facs="tcp:205930:8"/> us, for medling with innocent persons. Go you prophane Fools, if your Assertions were true, you mistake when you exposite the ends of Gods Judgments; you might rather think it was for our ill belief, in cru<g ref="char:EOLhyphen"/>sting such Hypocrites as you.</p>
+            <p>Twas now after the getting of this your ly<g ref="char:EOLhyphen"/>ing illegal Discharge, that the 3 M<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chivillian Em<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssaries stole away from <hi>Deale</hi> to <hi>London,</hi> to publish the wonderful works of God on the Seas, how averse the heavens were to their Transportation, and the Providence of God in their delivery: stories as strange as that of <hi>Cassiopeia's Chaire,</hi> or the <hi>Phainomena,</hi> then which there cannot be a veri<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r nothing.</p>
+            <p>'Twas somthing strange Mr. <hi>May</hi> should complain, Providence should so cross him in his designes, when as then he was neither concerned with, nor in the Ship, during her passage from <hi>London</hi> to <hi>Gravesend,</hi> or from thence to the <hi>Downs;</hi> neither was he there for some considerable time after.</p>
+            <p>'Tis true there was one Capt. <hi>Green,</hi> Ma<g ref="char:EOLhyphen"/>ster of the Ship called the <hi>Barbadoes Mer<g ref="char:EOLhyphen"/>chant,</hi> who had been a Month before us there, that put to Sea five times, and by ex<g ref="char:EOLhyphen"/>tremity of weather was beaten in again, yet was it not so with us; we lay at Anchor with half a Cable, half the strength, whilst others had a whole one.</p>
+            <p>If this be your Providence, you have made the most of it.</p>
+            <pb n="15" facs="tcp:205930:8"/>
+            <p>Was any of our Cordage broke, did it run aground, as several other Ships did, during our being there? or did it suffer any Damage by the weather? why should you then seek to cheat the people, why should you lye in the Face of Almighty God, are not these things untruths? why should you then encourage your Fancies, in designing Circumstances of so great Falshood.</p>
+            <p>What, hath not your Principles given you strength enough to rejoyce in Tribulation? cannot you, as the three Children, sing in the fire; Or as <hi>Paul</hi> and <hi>Silas</hi> in the Stocks? Whilst you are feasted in Prisons, you can indure this Severity: Banishment is too hard a Sentence for a tender Conscience.</p>
+            <p>Why do you play the Hippocrites thus? Don't you count your merit more, or lesse, according to your sufferings? Why did you not gaine Heaven by Banishment? durst not you trust Gods Promises upon so dear a score? can you not part with <hi>England,</hi> and your holy Sisters, for your God?</p>
+            <p>Does not your C<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nscience tell you the more innocently you suffer, the more effe<g ref="char:EOLhyphen"/>ctual is your Justification before God? why then do you blow Trumpets like the Phari<g ref="char:EOLhyphen"/>sees, when you give Almes, or do good Acts? why do you justifie your selves before men, do you not receive your reward here? See what St <hi>Mathew</hi> sayes to you, <hi>Math.</hi> 23. and 28. Even so ye also appear righteous unto
+<pb n="16" facs="tcp:205930:9"/> men, but within you are full of hypocrisie and iniquity.</p>
+            <p>Why then will you say there is no Crime signified against you, worthy of Banish<g ref="char:EOLhyphen"/>ment? you pretend you will suffer all things, why then are you so willing to Cite a Law so f<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r from the purpose? Is not there a new Law for new Crimes? we had no Quakers in those times. But now I perceive where you would be; you would not go against your wills, you would suffer punishment provided it be here in <hi>England.</hi> What does your Brotherhood think that change of Aire wiil change your Opinion? or that like men religiously drunk, after a Nap you would come to your selves again? why else have they so often petiti<g ref="char:EOLhyphen"/>oned for you? why have they used such means to get you off? why have your selves used such treachery? what, have you gra<g ref="char:EOLhyphen"/>veld your consciences, have you no remorse?</p>
+            <p>You scorne your selves to petition for mercy, but your Brothers shall; what a trick this is to blinde the World? do not we know that he which doth it by another, doth it himself? and though you do not desire fa<g ref="char:EOLhyphen"/>vour your selves, yet you consent, procure, and aid another, to do it for you.</p>
+            <p>How can you say the Seamen were against going? was their consent ever asked? how can you own such a falshood? Did not two of them help me to drag you into the
+<pb n="17" facs="tcp:205930:9"/> Boat. 'Tis strange if they should so soon tack about, or can any body imagine these persons that are so forward for your going, should be by you thought to be against it.</p>
+            <p>How can you certifie any person, that you made not your escape? did not three of you run the Country, whilst the other four appear<g ref="char:EOLhyphen"/>ed walking upon the Be<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch, to blind my eyes? if you thought this Certificate a Discharge sufficient, why did you not all go?</p>
+            <p>What signifies this Discharge, how unjustly soever gotten it appears? what will you do with it? it will be no Record for you in Hea<g ref="char:EOLhyphen"/>ven, nor Protection for you here. In penning and procuring whereof, you have done as the Thief that stole the plague from <hi>Athens:</hi> you have made a Rod for your selves: Did you not know that it lay not in <hi>May</hi>'s power to re<g ref="char:EOLhyphen"/>lease you? and that at the time the Discharge was given, <hi>May</hi> had not any thing to do with the Ship, men, or any other thing therein con<g ref="char:EOLhyphen"/>teined, but as a Substitute to me, so that he could not have done it without my consent likewise obtained. And further, that it lay not in our powers to make such a Note or Dis<g ref="char:EOLhyphen"/>charge; and that none but his Majesty could rec<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l your Banishment, or Discharge us of our Engagements for your Transportation; is this a sin of ignorance?</p>
+            <p>We need no more of your Rhetor<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck, nor those false ascribed Encomiums of your sin<g ref="char:EOLhyphen"/>cerity
+<pb n="18" facs="tcp:205930:10"/> and upright dealings with all persons. Let people judge of you by your actions, where like Juglers you have cheated all, by casting a mist before their eyes.</p>
+            <p>Where now is your puritanical B<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd? Where is your affected carelesness? who is it you now condemn for pride, deceit and prophanesse? who now do you judge for idle words? have you nothing to say for your selves? what do you think of the phrase, <hi>Luke</hi> 18. was he not a good, just and honest man of your Opinion.</p>
+            <p>Are not your principles to give every man his due, to do now ong to any body, nor to let any man suffer any wrong for you, not to the loss of one haire of their heads, have you made this good is one word of it true? Is this your charity and Brotherly love, is this your following of the Letter, you will by no means swear, nor lye at all to speak on, except it con<g ref="char:EOLhyphen"/>cern your private good, or the propagating the Number of the Saints of this our age.</p>
+            <p>Come, come, be wise and consider that those that instiled those principles in you, had a farther design, and that you might be the more pliable, they did resolve to Level all things, that they might set up some New thing of their own, like another <hi>Mahomet</hi> with his Pidgeons and Falling-sickness in<g ref="char:EOLhyphen"/>stead of inspiration.</p>
+            <p>What needed those delayes amongst the
+<pb n="19" facs="tcp:205930:10"/> godly, would your stiffe-limb'd holinesse allow of so many idle words, why did you not at first tell me of your pretended dis<g ref="char:EOLhyphen"/>charge, why would you lye before God and men, when you said you would go upon sight of a Note from Mr. <hi>May,</hi> and why went you not when it came.</p>
+            <p>Why did you promise to go if he should come himself and desire you, and when he came and commanded you aboard, why went you not or why did you say you would?</p>
+            <p>Had you not the liberty to speak, or were you ashamed to own your contrivance before you were force<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>?</p>
+            <p>But <hi>I</hi> pitie your ignorance, that being Created after the Image of God, you should know his Call no better, that you should know your selves not better, that you should not know to what end you were created, that you should not know the difference betwixt a man and a beast? doth not your will make you a man, why therefore did you not re<g ref="char:EOLhyphen"/>solve me at first, whether you would or would not, It is an ill signe of truth when p<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ople use Circumlocutions.</p>
+            <p>But hitherto tended your policie, the wind you knew was good, the Merchants and Passengers would be impatient and the Ship could not stay, unless it would stand the haz<g ref="char:EOLhyphen"/>zard of being protested against, which you
+<pb n="20" facs="tcp:205930:11"/> imagined to us would be of a greater conse<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#uom" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uence then your carriage. And that the <gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>est of the Fleet being gone we could not <gap reason="illegible" resp="#uom" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ay long behind. This was that made you use a double Tongue, this was the time to make all your shifts. And if that you could spin out any discourse for an hour, it were suffici<g ref="char:EOLhyphen"/>ent? Did you do like Saints in this, or do you think you have escap't this danger with<g ref="char:EOLhyphen"/>out expectance of a worse. Be it to you as you deserve,</p>
+            <p>Did I not stay the Ship from two of the Clock Sunday morning, until Tuesday mor<g ref="char:EOLhyphen"/>ning, did not <hi>I</hi> use the interest of the Mer<g ref="char:EOLhyphen"/>chants Passengers? did not <hi>I</hi> my self per<g ref="char:EOLhyphen"/>swade you, telling you the danger of going back again, and that you would be tryed as Felons? did not <hi>I</hi> tell you, that if you re<g ref="char:EOLhyphen"/>fused to go, you would undoe me and above halfe a score more? Did the Ship refuse to carry you, or did I yet, would not all this move your evil genius to a compliance?</p>
+            <p>Did not I use all the vigour <hi>I</hi> could to force you aboard, did I not charge the De<g ref="char:EOLhyphen"/>puty and Townsmen in the Kings Name (though in vain) to aid and assist me? did not I take you all and throw you into the Boat, and unless I had nailed your feet to the plancks, I could not have done more. From whence though you went not freely in, you could freely runne out</p>
+            <pb n="21" facs="tcp:205930:11"/>
+            <p>What did you think the Boat was made of Irish Wood, and that no venomous Creature could I ve upon it, why else would not you re<g ref="char:EOLhyphen"/>ma<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n here, why would not you stay the tenth part of a quarter of an houre, what would not your pa<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce or your pain suffer you to stay till my Seamen could fit their Oares.</p>
+            <p>What made you fall all along upon the Beech-stones, was it out of Devotion, or in expectation of the Text, <hi>Mat.</hi> 3. <hi>and</hi> 9 Or did you think to be carried into the Boat by the Spirit.</p>
+            <p>Did you ever produce this discharge of Mr. <hi>May?</hi> was it ever openly read or acknow<g ref="char:EOLhyphen"/>ledged by Mr. <hi>May</hi> when he was himself, was it drawn by a publique Notary, was not it done in a common Alehouse, and signed by your own Creatures? And though I cannot justifie Mr. <hi>Mayes</hi> doing thereof in any place, yet, I think <hi>inter pocula</hi> so severe a Censure as that by the understanding people of this Na<g ref="char:EOLhyphen"/>tion will be thought but an elevation of the Pole.</p>
+            <p>But yet let me speak this concerning Mr. <hi>May,</hi> and I would have the world know so much, that however he hath carried himself in that businesse, yet his concealing thereof from me all thar while, and for several other Accounts, he hath proved himself a Rogue,
+<pb n="22" facs="tcp:205930:12"/> and a Villain, the which I have not mist a Opportunity all this while to tell him of; and with his Crocodiles tears he hath acknow<g ref="char:EOLhyphen"/>ledged it with more Grace, I suppose, then I can expect from you.</p>
+            <p>But now again to you Hypocrites: Let the world know what you have done for the Truth and your Conscience, (as you pretend) you'l say you have suffered Imprisonment, losse of Libertie, and the not enjoyment of the Bodie. But why persisted you not unto the end? why do you like <hi>Peter</hi> deny your Principles when there is most need of Justification? why do you turn back like <hi>Lot</hi>'s wife? see what you have merited, see what St. <hi>Luke</hi> promises you as a reward, <hi>Luke</hi> 17. and 33. <hi>Whosoever seeks to save his life, shall lose it; and whosoever shall lose his Life, shall preserve it.</hi>
+            </p>
+            <p>What, did you think your selves sent as Sa<g ref="char:EOLhyphen"/>crifices? why did you not then thank God for his Offer, and like another <hi>Abraham,</hi> make an example of your Faith?</p>
+            <p>Will you tell me again you have Wives, and Children, and Families? and that it is an un<g ref="char:EOLhyphen"/>just thing that Free borne Subjects should be banished for no apparent Crime; what then, will you quit the Banners of Christ to stay at home? See in <hi>Math.</hi> 10. and 37.</p>
+            <p>What could I expect when you refused to go with me unto the Boat, but that your Faith had been like <hi>Peters,</hi> and that you would
+<pb n="23" facs="tcp:205930:12"/> have walkt to the Ship upon the face of the water<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>?</p>
+            <p>But you have deceived the world &amp; me, and you<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Faith is not so much as your Fallacy: Your words savor of the Spiri<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of God, b<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t your Actions of the Devil: You are not so Religious, is you would be counted: You are too much Speculative Christians. A little of the Practick is enough to make you mad, if you be not so already.</p>
+            <p>Fie, fie up<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n you, 'tis now time to be inge<g ref="char:EOLhyphen"/>nious, and for Pennance, to acknowledge your mi<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>guided Devotion, either shew by your A<g ref="char:EOLhyphen"/>ctions more of Saints, or professe lesse. But I suppose your policy, you are temporally Re<g ref="char:EOLhyphen"/>ligious, and your expectancy is nothing but a temporal blessing: Or like the Sadduces, you deny the Resurrection. Do you know that God knowes your thoughts, and that you must give an account of them at the General Day of Judgment? why then do you use a Cloak to your bad Actions, and make that your Glory, which should be your Shame.</p>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb n="24" facs="tcp:205930:13"/>
+            <opener>
+               <salute>
+                  <hi>Fre<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dly Reader,</hi>
+               </salute>
+            </opener>
+            <p>INstead of a Prologue, you have here an Epilogue; not that I intend<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to barre you of the kindness usual a<g ref="char:EOLhyphen"/>mongst the Ancient and Modern Writers; but that as the Case is new and unheard of, so I would have the Form. You have here seen the whole matter in every Respect, as well as my w<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ak Judgment can represent it to you; not but that I am satisfied in my self, that I cannot suffici<g ref="char:EOLhyphen"/>en<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly express the Nature, Qualities, and Conditions of th<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, in so lively a Character as their Actions would have represented to you, had you been Spectators thereof. For any impartiality, as I have used none, so I would, as near as I could, deserve none, and expect none. You are here left sole Judges of the Case; you have on the one part heard the naked Truth and Evidence; on the other part the Circumventions, Shifts, and Stratagems. Weigh both in an equal Ballance, and let your Judg<g ref="char:EOLhyphen"/>ments incline to that which hath the most apparences of Truth. I barre no Reason nor Arguments, that can be used in their Defence; neither do I desire to gain any Credit (upon my own score) in any one Particular, If I cannot effectually make it appear by Evidence. The leaving my Concerns in the Ship, I am sure will be of some credit with you; beside<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my staying here to justifie the same. I beg your Censure; not that I would court you to favour any thing, which were not true. But that you would satisfie the world of their Actions, and that they are not the same persons, they are taken for. In this you would do your selves (and those persons they have any thing to do withal, right, and me no wrong,</p>
+            <closer>
+               <signed>Who am Yours, <hi>Edward Maning.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
